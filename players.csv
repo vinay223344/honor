@@ -1,0 +1,201 @@
+player_id,name,role,nationality
+P001,Virat Kohli,Batsman,India
+P002,Rohit Sharma,Batsman,India
+P003,MS Dhoni,Wicket-Keeper,India
+P004,Hardik Pandya,All-Rounder,India
+P005,Jasprit Bumrah,Bowler,India
+P006,Ravindra Jadeja,All-Rounder,India
+P007,Shubman Gill,Batsman,India
+P008,Suryakumar Yadav,Batsman,India
+P009,Rishabh Pant,Wicket-Keeper,India
+P010,KL Rahul,Batsman,India
+P011,David Warner,Batsman,Australia
+P012,Pat Cummins,Bowler,Australia
+P013,Glenn Maxwell,All-Rounder,Australia
+P014,Mitchell Starc,Bowler,Australia
+P015,Marcus Stoinis,All-Rounder,Australia
+P016,Steve Smith,Batsman,Australia
+P017,Travis Head,Batsman,Australia
+P018,Josh Hazlewood,Bowler,Australia
+P019,Adam Zampa,Bowler,Australia
+P020,Matthew Wade,Wicket-Keeper,Australia
+P021,Kane Williamson,Batsman,New Zealand
+P022,Trent Boult,Bowler,New Zealand
+P023,Devon Conway,Batsman,New Zealand
+P024,Lockie Ferguson,Bowler,New Zealand
+P025,Mitchell Santner,All-Rounder,New Zealand
+P026,Tim Southee,Bowler,New Zealand
+P027,Jimmy Neesham,All-Rounder,New Zealand
+P028,Glenn Phillips,Wicket-Keeper,New Zealand
+P029,Finn Allen,Batsman,New Zealand
+P030,Ish Sodhi,Bowler,New Zealand
+P031,Jos Buttler,Wicket-Keeper,England
+P032,Ben Stokes,All-Rounder,England
+P033,Jofra Archer,Bowler,England
+P034,Sam Curran,All-Rounder,England
+P035,Jonny Bairstow,Batsman,England
+P036,Joe Root,Batsman,England
+P037,Moeen Ali,All-Rounder,England
+P038,Chris Woakes,All-Rounder,England
+P039,Adil Rashid,Bowler,England
+P040,Jason Roy,Batsman,England
+P041,Quinton de Kock,Wicket-Keeper,South Africa
+P042,Kagiso Rabada,Bowler,South Africa
+P043,David Miller,Batsman,South Africa
+P044,Anrich Nortje,Bowler,South Africa
+P045,Faf du Plessis,Batsman,South Africa
+P046,Lungi Ngidi,Bowler,South Africa
+P047,Heinrich Klaasen,Wicket-Keeper,South Africa
+P048,Marco Jansen,All-Rounder,South Africa
+P049,Aiden Markram,All-Rounder,South Africa
+P050,Tabraiz Shamsi,Bowler,South Africa
+P051,Andre Russell,All-Rounder,West Indies
+P052,Kieron Pollard,All-Rounder,West Indies
+P053,Sunil Narine,All-Rounder,West Indies
+P054,Nicholas Pooran,Wicket-Keeper,West Indies
+P055,Shimron Hetmyer,Batsman,West Indies
+P056,Jason Holder,All-Rounder,West Indies
+P057,Rovman Powell,Batsman,West Indies
+P058,Alzarri Joseph,Bowler,West Indies
+P059,Obed McCoy,Bowler,West Indies
+P060,Shai Hope,Batsman,West Indies
+P061,Shikhar Dhawan,Batsman,India
+P062,Prithvi Shaw,Batsman,India
+P063,Yuzvendra Chahal,Bowler,India
+P064,Bhuvneshwar Kumar,Bowler,India
+P065,Axar Patel,All-Rounder,India
+P066,Ishan Kishan,Wicket-Keeper,India
+P067,Sanju Samson,Wicket-Keeper,India
+P068,Deepak Chahar,Bowler,India
+P069,Washington Sundar,All-Rounder,India
+P070,Ruturaj Gaikwad,Batsman,India
+P071,Shreyas Iyer,Batsman,India
+P072,Harshal Patel,Bowler,India
+P073,Arshdeep Singh,Bowler,India
+P074,Ravi Bishnoi,Bowler,India
+P075,Sarfaraz Khan,Batsman,India
+P076,Tilak Varma,Batsman,India
+P077,Umran Malik,Bowler,India
+P078,Shivam Dube,All-Rounder,India
+P079,Krunal Pandya,All-Rounder,India
+P080,Mohammed Siraj,Bowler,India
+P081,Varun Chakravarthy,Bowler,India
+P082,Mayank Agarwal,Batsman,India
+P083,Devdutt Padikkal,Batsman,India
+P084,Wriddhiman Saha,Wicket-Keeper,India
+P085,Manish Pandey,Batsman,India
+P086,Dinesh Karthik,Wicket-Keeper,India
+P087,Abhishek Sharma,All-Rounder,India
+P088,Rajat Patidar,Batsman,India
+P089,Shardul Thakur,All-Rounder,India
+P090,Kuldeep Yadav,Bowler,India
+P091,Naveen-ul-Haq,Bowler,Afghanistan
+P092,Rashid Khan,Bowler,Afghanistan
+P093,Noor Ahmad,Bowler,Afghanistan
+P094,Mujeeb Ur Rahman,Bowler,Afghanistan
+P095,Ibrahim Zadran,Batsman,Afghanistan
+P096,Karim Janat,All-Rounder,Afghanistan
+P097,Chris Gayle,Batsman,West Indies
+P098,Dwayne Bravo,All-Rounder,West Indies
+P099,Marlon Samuels,Batsman,West Indies
+P100,Samuel Badree,Bowler,West Indies
+P101,Rajat Gupta,Batsman,India
+P102,Vivek Patel,Bowler,India
+P103,Anand Kumar,All-Rounder,India
+P104,Anuj Rawat,Wicket-Keeper,India
+P105,Nehal Wadhera,All-Rounder,India
+P106,Ayush Badoni,Batsman,India
+P107,Lalit Yadav,All-Rounder,India
+P108,Chetan Sakariya,Bowler,India
+P109,Anmolpreet Singh,Batsman,India
+P110,Vicky Ostwal,Bowler,India
+P111,Riyan Parag,All-Rounder,India
+P112,Kartik Tyagi,Bowler,India
+P113,Kumar Kartikeya,Bowler,India
+P114,Harpreet Brar,All-Rounder,India
+P115,Sai Sudharsan,Batsman,India
+P116,B Sai Kishore,Bowler,India
+P117,T Natarajan,Bowler,India
+P118,Mukesh Kumar,Bowler,India
+P119,Yashasvi Jaiswal,Batsman,India
+P120,Akash Deep,Bowler,India
+P121,Tim David,All-Rounder,Australia
+P122,Cameron Green,All-Rounder,Australia
+P123,Ashton Agar,Bowler,Australia
+P124,Sean Abbott,Bowler,Australia
+P125,Alex Carey,Wicket-Keeper,Australia
+P126,Hilton Cartwright,Batsman,Australia
+P127,Peter Handscomb,Wicket-Keeper,Australia
+P128,Kurtis Patterson,Batsman,Australia
+P129,Matt Renshaw,Batsman,Australia
+P130,Daniel Sams,All-Rounder,Australia
+P131,Tom Latham,Wicket-Keeper,New Zealand
+P132,Will Young,Batsman,New Zealand
+P133,Daryl Mitchell,All-Rounder,New Zealand
+P134,Henry Nicholls,Batsman,New Zealand
+P135,Neil Wagner,Bowler,New Zealand
+P136,Colin de Grandhomme,All-Rounder,New Zealand
+P137,Scott Kuggeleijn,Bowler,New Zealand
+P138,Mark Chapman,Batsman,New Zealand
+P139,Michael Bracewell,All-Rounder,New Zealand
+P140,Tom Blundell,Wicket-Keeper,New Zealand
+P141,Phil Salt,Batsman,England
+P142,Reece Topley,Bowler,England
+P143,Harry Brook,Batsman,England
+P144,Liam Livingstone,All-Rounder,England
+P145,Ollie Pope,Batsman,England
+P146,Chris Jordan,Bowler,England
+P147,Tom Curran,All-Rounder,England
+P148,Will Jacks,Batsman,England
+P149,George Garton,Bowler,England
+P150,Richard Gleeson,Bowler,England
+P151,Reeza Hendricks,Batsman,South Africa
+P152,Rassie van der Dussen,Batsman,South Africa
+P153,Andile Phehlukwayo,All-Rounder,South Africa
+P154,Keshav Maharaj,Bowler,South Africa
+P155,Wayne Parnell,All-Rounder,South Africa
+P156,Dwaine Pretorius,All-Rounder,South Africa
+P157,Beuran Hendricks,Bowler,South Africa
+P158,Sisanda Magala,Bowler,South Africa
+P159,Gerald Coetzee,Bowler,South Africa
+P160,Temba Bavuma,Batsman,South Africa
+P161,Shamar Joseph,Bowler,West Indies
+P162,Romario Shepherd,All-Rounder,West Indies
+P163,Brandon King,Batsman,West Indies
+P164,Johnson Charles,Wicket-Keeper,West Indies
+P165,Keemo Paul,All-Rounder,West Indies
+P166,Keacy Carty,Batsman,West Indies
+P167,Raymon Reifer,All-Rounder,West Indies
+P168,Kyle Mayers,All-Rounder,West Indies
+P169,Odean Smith,All-Rounder,West Indies
+P170,Jahmar Hamilton,Wicket-Keeper,West Indies
+P171,Mohammad Nabi,All-Rounder,Afghanistan
+P172,Azmatullah Omarzai,All-Rounder,Afghanistan
+P173,Fazalhaq Farooqi,Bowler,Afghanistan
+P174,Nasir Jamal,Batsman,Afghanistan
+P175,Rahmanullah Gurbaz,Wicket-Keeper,Afghanistan
+P176,Hashmatullah Shahidi,Batsman,Afghanistan
+P177,Zahir Khan,Bowler,Afghanistan
+P178,Gulbadin Naib,All-Rounder,Afghanistan
+P179,Qais Ahmad,Bowler,Afghanistan
+P180,Sharafuddin Ashraf,All-Rounder,Afghanistan
+P181,Sachin Baby,Batsman,India
+P182,Mayank Markande,Bowler,India
+P183,Akash Madhwal,Bowler,India
+P184,Venkatesh Iyer,All-Rounder,India
+P185,Ripal Patel,All-Rounder,India
+P186,Simarjeet Singh,Bowler,India
+P187,Karan Sharma,All-Rounder,India
+P188,Utkarsh Singh,All-Rounder,India
+P189,Abdul Samad,All-Rounder,India
+P190,Baba Indrajith,Wicket-Keeper,India
+P191,Monu Kumar,Bowler,India
+P192,Jaydev Unadkat,Bowler,India
+P193,Sandeep Sharma,Bowler,India
+P194,Piyush Chawla,Bowler,India
+P195,Ankit Rajpoot,Bowler,India
+P196,Navdeep Saini,Bowler,India
+P197,Shahbaz Ahmed,All-Rounder,India
+P198,Jagadeesan Narayan,Wicket-Keeper,India
+P199,Abhimanyu Easwaran,Batsman,India
+P200,Manoj Tiwary,Batsman,India
