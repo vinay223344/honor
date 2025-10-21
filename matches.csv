@@ -1,0 +1,7 @@
+match_id,date,season,team1,team2,winner,venue_id
+M001,3/26/2022,2022,Mumbai Indians,Delhi Capitals,Delhi Capitals,V001
+M002,3/27/2022,2022,Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,V002
+M003,3/28/2022,2022,Punjab Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,V003
+M004,3/29/2022,2022,Rajasthan Royals,Royal Challengers Bengaluru,Rajasthan Royals,V004
+M067,5/26/2024,2024,Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,MA Chidambaram Stadium
+M068,5/28/2025,2025,Chennai Super Kings,Royal Challengers Bengaluru,Royal Challengers Bengaluru,MA Chidambaram Stadium
